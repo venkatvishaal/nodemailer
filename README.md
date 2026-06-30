@@ -44,7 +44,7 @@ After running once, Node will also create:
  Testing with Postman (without the HTML form)
 
 - Method: `POST`
-- URL: `http://localhost:3000/send`
+- URL: `http://localhost:3005/send`
 - Body type: `form-data` (not raw JSON, since attachments require multipart)
   - `name`: text
   - `email`: text
